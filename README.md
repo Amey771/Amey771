@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amey Suresh Borkar
 
-**MS Data Science** @ Pace University · **BE E&TC** @ RTM Nagpur University  
+**MS Data Science** @ Pace University
 Based in Jersey City, NJ · Seeking AI/ML & Data Science roles (June 2025)
 
 ---
