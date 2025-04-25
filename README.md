@@ -1,53 +1,33 @@
-# 👋 Hi there, I’m Amey Suresh Borkar
+# 👋 Hi, I’m Amey Suresh Borkar
 
-I’m a Master’s student in Data Science at Pace University (GPA: 4.0/4.0 🎓), graduating May 2025.  
-Passionate about building AI/ML solutions that solve real-world problems—from employee attrition forecasting to real-time voice agents.
-
----
-
-## 🔭 What I’m Working On
-- **Predicting Employee Job Switch**: XGBoost + SHAP + Streamlit app for HR attrition forecasting  
-  Live demo → [View App](https://capstoneproject-ameyborkar.streamlit.app/)  
-  Code → [GitHub Repo](https://github.com/Amey771/Capstone_Project)
-- **Virtual Fencing for Railway Safety**: CV system to detect trespassing and track zones  
-- **Teach Simple**: Real-time voice bot for the Feynman Technique (OpenAI Realtime API)  
+**Master’s in Data Science** @ Pace University (GPA: 4.0) · Graduating May 2025  
+**Aspiring Data Scientist** passionate about AI/ML solutions that drive business impact.
 
 ---
 
-## 🛠️ Tech Stack
-
-| Languages      | Libraries & Frameworks      | Data & DevOps           |
-| -------------- | --------------------------- | ----------------------- |
-| Python · C++ · SQL · R  | TensorFlow · PyTorch · scikit-learn · LangChain · OpenAI API  | Docker · Airflow · AWS/GCP · Streamlit |
-| RDBMS · MySQL · Power BI · Tableau | Pandas · NumPy · Matplotlib · SHAP · Whisper · Groq  | Git · GitHub Actions · Linux |
+## 🔑 Key Highlights
+- **Capstone:** Predicting Employee Job Switch  
+  – XGBoost model + SHAP explanations · Streamlit web app  
+- **Hackathon Wins:**  
+  – Visual AI Rail Safety (virtual fencing) · AI Tinkerers real-time voice agent MVP  
+- **Industry Intern:** DSM-Firmenich – Flavor predictive modeling  
+- **Publications:** Fake News Detection · Diabetes Prediction  
+- **Certifications:** Azure Data Scientist Associate (DP-100) · IBM Machine Learning
 
 ---
 
-## 💡 Highlights & Achievements
-
-- 🎖️ **Hackathons**: Winner of Visual AI Rail Safety Hack (virtual fencing)  
-- 🏥 **Flamingo Cares**: AI-powered patient simulator (Amazon Bedrock, Claude, AWS Textract)  
-- 🤖 **AI Tinkerers**: MVP real-time reasoning + voice call bot  
-- 📚 **Publications**: Fake News Detection; Diabetes Prediction models  
-- 📈 **Certifications**: Microsoft AZ-900 · DP-100 · IBM Machine Learning · Power BI  
+## 🛠️ Technical Skills
+- **Languages:** Python · C++ · SQL · R  
+- **AI & ML:** scikit-learn · TensorFlow · PyTorch · XGBoost · SHAP · LangChain  
+- **Data & Viz:** Pandas · NumPy · Matplotlib · Seaborn · Power BI · Tableau  
+- **NLP & GenAI:** OpenAI API · Whisper · RAG · BM25  
+- **DevOps & Deploy:** Docker · Airflow · AWS · GCP · Streamlit · GitHub Actions  
+- **Databases:** MySQL · PostgreSQL · RDBMS · NoSQL
 
 ---
 
 ## 📫 Let’s Connect
-
-- ✉️ Email: [amey.borkar01@gmail.com](mailto:amey.borkar01@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/ameyborkar771](https://www.linkedin.com/in/ameyborkar771)  
-- 🌐 Portfolio: [ameyborkar.com](https://ameyborkar.com)  
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amey771&theme=dark&date_format=M%20j%5B%2C%20Y%5D)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amey771&layout=compact)
-
----
-
-> “Data is the new oil, but AI is the refinery.”  
-> — **Amey**
+- ✉️ [amey.borkar01@gmail.com](mailto:amey.borkar01@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ameyborkar771)  
+- 🌐 [Portfolio](https://ameyborkar.com)  
 
