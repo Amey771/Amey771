@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amey Suresh Borkar
 
 **MS Data Science** @ Pace University  
-📍 Jersey City, NJ · Open to AI/ML & Data Science roles (Jun 2025)
+📍 Jersey City, NJ · Open to AI/ML & Data Science roles
 
 ---
 
@@ -12,7 +12,6 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-347BAA?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <br/>
 
@@ -28,8 +27,6 @@
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img alt="Transformers" src="https://img.shields.io/badge/-Transformers-007ACC?style=for-the-badge&logo=transformers&logoColor=white" />
-  <img alt="Diffusers" src="https://img.shields.io/badge/-Diffusers-EE1F62?style=for-the-badge" />
-  <img alt="Whisper" src="https://img.shields.io/badge/-Whisper-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img alt="RAG" src="https://img.shields.io/badge/-RAG-5A31F4?style=for-the-badge" />
   <br/>
 
