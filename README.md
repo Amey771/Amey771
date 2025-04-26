@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I’m Amey Suresh Borkar
 
 **MS Data Science** @ Pace University  
@@ -108,5 +107,4 @@
 ## 📫 Connect with Me
 
 ✉️ amey.borkar01@gmail.com · 🔗 linkedin.com/in/ameyborkar771
-```
 
