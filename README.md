@@ -66,7 +66,7 @@
 
 ## 💼 Experience
 
-- **Teaching Assistant**, Pace University (Sep 2024 – Present)  
+- **Teaching Assistant**, Pace University (Sep 2024 – May 2025)  
   Facilitated courses in Analytics, Python & AI; mentored 180+ students → 15% exam-score uplift.
 
 - **Data Science Intern**, DSM-Firmenich (Jun 2024 – Dec 2024)  
