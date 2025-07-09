@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Amey Suresh Borkar
 
-**MS Data Science** @ Pace University  
-📍 New York, NY · Open to AI/ML & Data Science roles (Jun 2025)
+**MS Data Science** @ Pace University
+📍 New York, NY · Open to AI/ML & Data Science roles
 
 ---
 
@@ -16,6 +16,7 @@
   <br/>
 
   <!-- Machine Learning & Deep Learning -->
+
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
@@ -24,6 +25,7 @@
   <br/>
 
   <!-- Generative AI & NLP -->
+
   <img alt="OpenAI" src="https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/-HuggingFace-FF6C37?style=for-the-badge&logo=huggingface&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
@@ -32,6 +34,7 @@
   <br/>
 
   <!-- Frameworks & APIs -->
+
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
@@ -39,6 +42,7 @@
   <br/>
 
   <!-- Big Data & MLOps -->
+
   <img alt="PySpark" src="https://img.shields.io/badge/-PySpark-FF6E22?style=for-the-badge&logo=apache-spark&logoColor=white" />
   <img alt="Hive" src="https://img.shields.io/badge/-Hive-FF6600?style=for-the-badge&logo=apache-hive&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -47,6 +51,7 @@
   <br/>
 
   <!-- Cloud & Deployment -->
+
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img alt="SageMaker" src="https://img.shields.io/badge/-SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -55,6 +60,7 @@
   <br/>
 
   <!-- Visualization & BI -->
+
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-2C2D72?style=for-the-badge&logo=seaborn&logoColor=white" />
@@ -66,45 +72,48 @@
 
 ## 💼 Experience
 
-- **Teaching Assistant**, Pace University (Sep 2024 – May 2025)  
-  Facilitated courses in Analytics, Python & AI; mentored 180+ students → 15% exam-score uplift.
+* **AI Developer Intern**, DF Young (Jun 2025 – Present)
+  Exploring relational and graph-based insights from Hershey’s logistics data; building predictive reorder forecasting and recommending data-driven business solutions; leveraging Python, Pandas, NetworkX & GNNs for hidden-relationship discovery.
 
-- **Data Science Intern**, DSM-Firmenich (Jun 2024 – Dec 2024)  
+* **Data Science Intern**, DSM-Firmenich (Jun 2024 – Dec 2024)
   Built machine learning models on 60k+ GC/MS records (+20% accuracy), automated ETL (–30% runtime) & deployed on Azure ML.
 
-- **Senior Analyst/Software Engineer**, Capgemini (Jan 2022 – Jul 2023)  
+* **Teaching Assistant**, Pace University (Sep 2024 – May 2025)
+  Facilitated courses in Analytics, Python & AI; mentored 180+ students → 15% exam-score uplift.
+
+* **Senior Analyst/Software Engineer**, Capgemini (Jan 2022 – Jul 2023)
   Engineered loan-default predictor on 800k+ records (XGBoost), developed Azure SQL pipelines & SHAP-power BI dashboards (–40% report time).
 
 ---
 
 ## 🚀 Featured Projects
 
-- **Attrition Forecasting** — ML model & Streamlit UI for employee job-switch prediction
-- **Flight Delay Analysis** — PySpark/Hive pipeline & ensemble models (–30% manual review)
-- **Laptop Price Prediction** — Random Forest & EDA → 93% accuracy
-- **Virtual Fencing** — Real-time CV alerts (OpenCV & YOLO)
-- **Teach Simple** — Voice-driven tutor (OpenAI Realtime API & Whisper)
-- **Flamingo Cares** — AI patient-simulator (AWS Bedrock, Claude, Textract)
-- **GreatVillage** — AI property-management platform (Next.js, Tailwind, LangChain, LiveKit, Groq)
+* **Attrition Forecasting** — ML model & Streamlit UI for employee job-switch prediction
+* **Flight Delay Analysis** — PySpark/Hive pipeline & ensemble models (–30% manual review)
+* **Laptop Price Prediction** — Random Forest & EDA → 93% accuracy
+* **Virtual Fencing** — Real-time CV alerts (OpenCV & YOLO)
+* **Teach Simple** — Voice-driven tutor (OpenAI Realtime API & Whisper)
+* **Flamingo Cares** — AI patient-simulator (AWS Bedrock, Claude, Textract)
+* **GreatVillage** — AI property-management platform (Next.js, Tailwind, LangChain, LiveKit, Groq)
 
 ---
 
 ## 📜 Publications
 
-- **Prediction & Classification of Diabetes Diseases** (IEEE BECITHCON 2021)
-- **Fake News Classification** (Springer)
+* **Prediction & Classification of Diabetes Diseases** (IEEE BECITHCON 2021)
+* **Fake News Classification** (Springer)
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 Microsoft: Azure Fundamentals (AZ-900), Azure Data Scientist Associate (DP-100)  
-- 💻 IBM: Python 101, Data Analysis with Python, Machine Learning with Python, Data Visualization with Python  
-- 🛠️ Forage: PwC Power BI, British Airways Data Science
+* 🎓 Microsoft: Azure Fundamentals (AZ-900), Azure Data Scientist Associate (DP-100)
+* 🏅 AWS: Certified Solutions Architect – Associate (2025)
+* 💻 IBM: Python 101, Data Analysis with Python, Machine Learning with Python, Data Visualization with Python
+* 🛠️ Forage: PwC Power BI, British Airways Data Science
 
 ---
 
 ## 📫 Connect with Me
 
-✉️ amey.borkar01@gmail.com · 🔗 linkedin.com/in/ameyborkar771
-
+✉️ [amey.borkar01@gmail.com](mailto:amey.borkar01@gmail.com) · 🔗 linkedin.com/in/ameyborkar771
