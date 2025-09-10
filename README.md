@@ -1,8 +1,7 @@
 # 👋 Hi, I’m Amey Suresh Borkar
 
-**MS Data Science** @ Pace University
-📍 New York, NY · Open to AI/ML & Data Science roles
-
+**ML & AI Developer** @ DF Young
+📍 New York, NY · 
 ---
 
 ## 🛠️ Tech Stack
@@ -88,6 +87,7 @@
 
 ## 🚀 Featured Projects
 
+* **Memory Palace CLI** — Terminal-first study assistant, turns raw notes into flashcards, MCQs, and interactive quizzes with creative mnemonics and smart analytics.
 * **Attrition Forecasting** — ML model & Streamlit UI for employee job-switch prediction
 * **Flight Delay Analysis** — PySpark/Hive pipeline & ensemble models (–30% manual review)
 * **Laptop Price Prediction** — Random Forest & EDA → 93% accuracy
@@ -96,11 +96,12 @@
 * **Flamingo Cares** — AI patient-simulator (AWS Bedrock, Claude, Textract)
 * **GreatVillage** — AI property-management platform (Next.js, Tailwind, LangChain, LiveKit, Groq)
 
+
 ---
 
 ## 📜 Publications
 
-* **Prediction & Classification of Diabetes Diseases** (IEEE BECITHCON 2021)
+* **Prediction & Classification of Diabetes Diseases** (IEEE BECITHCON)
 * **Fake News Classification** (Springer)
 
 ---
