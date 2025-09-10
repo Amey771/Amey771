@@ -72,7 +72,7 @@
 
 ## 💼 Experience
 
-* **AI Developer Intern**, DF Young (Jun 2025 – Present)
+* **ML & AI Developer**, DF Young (Jun 2025 – Present)
   Exploring relational and graph-based insights from logistics data; building predictive reorder forecasting and recommending data-driven business solutions; leveraging Python, Pandas, NetworkX & GNNs for hidden-relationship discovery.
 
 * **Data Science Intern**, DSM-Firmenich (Jun 2024 – Dec 2024)
