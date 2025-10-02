@@ -117,4 +117,5 @@
 
 ## 📫 Connect with Me
 
-✉️ [amey.borkar01@gmail.com](mailto:amey.borkar01@gmail.com) · 🔗 linkedin.com/in/ameyborkar771 · 🔗 https://ameyborkar771.medium.com/
+✉️ [amey.borkar01@gmail.com](mailto:amey.borkar01@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/ameyborkar771)  · 🔗 [Medium](https://ameyborkar771.medium.com/)
+
