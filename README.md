@@ -80,7 +80,7 @@
 * **Teaching Assistant**, Pace University (Sep 2024 – May 2025)
   Facilitated courses in Analytics, Python & AI; mentored 180+ students → 15% exam-score uplift.
 
-* **Senior Analyst/Software Engineer**, Capgemini (Jan 2022 – Jul 2023)
+* **Senior Analyst**, Capgemini (Jan 2022 – Jul 2023)
   Engineered loan-default predictor on 800k+ records (XGBoost), developed Azure SQL pipelines & SHAP-power BI dashboards (–40% report time).
 
 ---
