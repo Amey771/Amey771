@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amey Suresh Borkar
 
-**ML & AI Developer** @ DF Young
+**ML & AI Engineer** @ DF Young
 📍 New York, NY · 
 ---
 
