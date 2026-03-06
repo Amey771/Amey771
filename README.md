@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Amey Suresh Borkar
 
-**ML & AI Engineer** @ DF Young
+**AI Engineer** @ DF Young
 📍 New York, NY · 
 ---
 
@@ -71,7 +71,7 @@
 
 ## 💼 Experience
 
-* **ML & AI Engineer**, DF Young (Jun 2025 – Present)
+* **AI Engineer**, DF Young (Jun 2025 – Present)
   Exploring relational and graph-based insights from logistics data; building predictive reorder forecasting and recommending data-driven business solutions; leveraging Python, Pandas, NetworkX & GNNs for hidden-relationship discovery.
 
 * **Data Science Intern**, DSM-Firmenich (Jun 2024 – Dec 2024)
@@ -80,7 +80,7 @@
 * **Teaching Assistant**, Pace University (Sep 2024 – May 2025)
   Facilitated courses in Analytics, Python & AI; mentored 180+ students → 15% exam-score uplift.
 
-* **Senior Analyst**, Capgemini (Jan 2022 – Jul 2023)
+* **Senior Analyst**, Capgemini (Sep 2022 – Jul 2023)
   Engineered loan-default predictor on 800k+ records (XGBoost), developed Azure SQL pipelines & SHAP-power BI dashboards (–40% report time).
 
 ---
