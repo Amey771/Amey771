@@ -143,15 +143,6 @@ Honor in Automation and Computer Vision | GPA: 9.17/10.0
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amey771&show_icons=true&theme=tokyonight&hide_border=true" alt="Amey's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amey771&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
-</p>
-
----
-
 ## 📫 Connect with Me
 
 ✉️ [amey.borkar01@gmail.com](mailto:amey.borkar01@gmail.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/ameyborkar771) · 🔗 [Medium](https://ameyborkar771.medium.com/) · 🐙 [GitHub](https://github.com/Amey771)
