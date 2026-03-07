@@ -21,7 +21,6 @@
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img alt="MLflow" src="https://img.shields.io/badge/-MLflow-00A9E0?style=for-the-badge" />
   <br/>
 
   <!-- Vector DBs & Retrieval -->
@@ -104,9 +103,9 @@
 | [**GreatVillage**](https://github.com/Amey771) | AI property management platform | Next.js, Tailwind, LangChain, LiveKit, Groq |
 | [**Memory Palace CLI**](https://github.com/Amey771) | Terminal study assistant — flashcards, MCQs, mnemonics & smart analytics | Python, LLMs |
 | [**Attrition Forecasting**](https://github.com/Amey771) | ML model & Streamlit UI for employee job-switch prediction | Scikit-learn, Streamlit |
-| [**Flight Delay Analysis**](https://github.com/Amey771) | Big data pipeline & ensemble models — reduced manual review by 30% | PySpark, Hive |
+| [**Flight Delay Analysis**](https://github.com/Amey771/Flight-Delay-Analysis) | Big data pipeline & ensemble models — reduced manual review by 30% | PySpark, Hive |
 | [**Virtual Fencing**](https://github.com/Amey771) | Real-time CV-based trespassing detection | OpenCV, YOLOv8 |
-| [**Laptop Price Prediction**](https://github.com/Amey771) | EDA + Random Forest → **93% accuracy** | Python, Scikit-learn |
+| [**Laptop Price Prediction**](https://github.com/Amey771/LaptopPricePredictionProject) | EDA + Random Forest → **93% accuracy** | Python, Scikit-learn |
 
 ---
 
@@ -128,7 +127,7 @@ Honor in Automation and Computer Vision | GPA: 9.17/10.0
 
 ---
 
-## 📜 Publications
+## 📝 Publications
 
 - 📄 **Prediction & Classification of Diabetes Diseases** — IEEE BECITHCON 2021 / IEEE Xplore *(Random Forest: 98%, SVM: 92% on 3,500+ hospital records)*
 - 📄 **Fake News Classification** — Springer *(NLP-based detection, 96% accuracy on 8,000+ articles)*
@@ -141,6 +140,15 @@ Honor in Automation and Computer Vision | GPA: 9.17/10.0
 - 🏅 **AWS**: Certified Solutions Architect – Associate (2025)
 - 💻 **IBM**: Python 101, Data Analysis with Python, Machine Learning with Python, Data Visualization with Python
 - 🛠️ **Forage**: PwC Power BI, British Airways Data Science
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Amey771&show_icons=true&theme=tokyonight&hide_border=true" alt="Amey's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amey771&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160" />
+</p>
 
 ---
 
